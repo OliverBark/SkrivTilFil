@@ -22,7 +22,7 @@ public class Main {
                 fw.append("\n");
                 fw.close(); //Lukker dokumentet
 
-                //Flush tømme eller ikke tømme filer
+
 
             } catch (IOException e) {
                 e.printStackTrace();
